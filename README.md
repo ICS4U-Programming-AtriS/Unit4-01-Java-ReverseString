@@ -1,2 +1,2 @@
-# Unit4-01-Java-reverseString
+# Unit4-01-Java-ReverseString
 [![Mr Coxall's Super Linter](README.md/../../../workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](README.md/../../../actions)
